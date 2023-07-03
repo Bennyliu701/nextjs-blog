@@ -30,9 +30,9 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Hi i'm Benny]-stage</p>
+        <p>[Hi i&#39;m Benny]-stage</p>
         <p>
-          (This is a sample website - you'll be building a site like this on{' '}
+          (This is a sample website - you&#39;ll be building a site like this on{' '}
           <a href='https://www.nextjs.cn/learn'>our Next.js tutorial1</a>.)
         </p>
       </section>
